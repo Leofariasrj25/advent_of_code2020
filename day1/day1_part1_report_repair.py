@@ -15,6 +15,8 @@ for i in range(len(expense_report)):
 		
 			if entry2 == desired_entry:
 				print(entry1 * entry2)
+				# the puzzle assumes there's only one pair of numbers that fulfill the condition				
+				exit()
 				
 		
 
